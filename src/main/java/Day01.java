@@ -7,6 +7,5 @@ public class Day01 {
         String name = scanner.next();
         System.out.println("헬로ㅂ");
         System.out.println("name = " + name);
-//        System.out.println("hello world");
     }
 }
