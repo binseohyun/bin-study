@@ -7,7 +7,7 @@ public class Day01 {
         Scanner scanner = new Scanner(System.in);
         System.out.print("이름을 입력해주세요: ");
         String name = scanner.next();
-        System.out.println("헬로ㅂ");
+        System.out.println("헬로");
         System.out.println("name = " + name);
     }
 }
